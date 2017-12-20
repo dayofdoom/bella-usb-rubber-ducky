@@ -8,7 +8,7 @@ This Ducky Script will download a .zip file from your server to the target machi
 - USB Rubber Ducky from Hak5
 
 # Instructions:
-1. Clone Bella (https://github.com/manwhoami/Bella) and run the ./BUILDER tool to build your payload.
+1. Clone Bella (https://github.com/dayofdoom/Bella) and run the ./BUILDER tool to build your payload.
 2. Compress the Bella file created in /Bella-master/Builds/xx-xx@xx_xx/Bella and name it Bella.zip.
 3. Upload to your server.
 4. Modify Bella Ducky Script to point to the location of your server (https://myserver.com/Bella/Bella.zip)
@@ -18,6 +18,9 @@ This Ducky Script will download a .zip file from your server to the target machi
 8. Open up Bella's C&C and wait for the target to connect.
 
 # Support
-- Bella repo: https://github.com/manwhoami/Bella
+- Bella repo: https://github.com/dayofdoom/Bella
 - Duck Toolkit: https://ducktoolkit.com/
 - Hak5 USB Rubber Ducky: https://hakshop.com/collections/usb-rubber-ducky
+
+# Project Notes
+The orignal Bella repo has been removed. Please use my fork (or others found on github).
