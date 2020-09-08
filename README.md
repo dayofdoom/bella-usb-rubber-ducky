@@ -1,5 +1,5 @@
 # Bella Ducky Script for USB Rubber Ducky from Hak5
-This Ducky Script will download a .zip file from your server to the target machine, unzip it, run Bella, clean up the install files, and then quit Terminal.
+This Ducky Script will download a `.zip` file from your server to the target machine, unzip it, run Bella, clean up the install files, and then quit Terminal.
 
 # Requirements:
 - A server to hold your `.zip` file
