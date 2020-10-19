@@ -23,4 +23,8 @@ This Ducky Script will download a `.zip` file from your server to the target mac
 - Hak5 USB Rubber Ducky: https://hakshop.com/collections/usb-rubber-ducky
 
 # Project Notes
+
+*10/19/2020
+*As this Bella software is over 4 years old, I can't vouch for it's use on new macOS systems. Please use as an educational resource and not as a current pentesting tool. However, the DuckyScript is still valid.
+
 The orignal Bella repo has been removed. Please use my fork (or others found on github).
